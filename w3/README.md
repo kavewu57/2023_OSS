@@ -19,4 +19,29 @@ ProGit 링크
 - log
   - 예) git log --oneline --decorate --graph --all
 
+'''   
+echo "----------"   
+echo "name :"   
+echo "지현석"   
+echo   
+   
+echo "----------"   
+echo "student id :"   
+echo "2022125059"   
+   
+file_path='find /home/kau2/ -name w2_homework.txt 2> /dev/null'   
+echo "----------"   
+echo   
+echo "file path :"   
+echo   
+   
+line_num='wc -l $file_path | cut -c 1 -'   
+echo "----------"   
+echo "line number :"   
+echo $line_num   
+echo   
 
+echo "----------"
+echo "last line :"
+tail -n 1 $file_path
+'''   
