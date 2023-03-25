@@ -62,12 +62,12 @@ tail -n 1 $file_path
   - 녹색
     - 파랑 
 
-####강조   
-single asterisks   
-single underscores   
-double asterisks   
-double undersocres   
-cancelline   
+#### 강조   
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double undersocres__   
+~~cancelline~~   
 
 
 
