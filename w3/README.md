@@ -18,7 +18,7 @@
 - status
 - log
   - 예) git log --oneline --decorate --graph --all
-#        
+##           
 ```   
 #!/user/bin/env bash   
 echo "----------"   
@@ -57,7 +57,7 @@ tail -n 1 $file_path
 - 첫번째   
 - 세번째   
 - 두번째   
-#                
+##                   
 - 빨강         
   - 녹색
     - 파랑 
