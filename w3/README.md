@@ -41,7 +41,7 @@ echo "line number :"
 echo $line_num   
 echo   
 
-echo "----------"
-echo "last line :"
-tail -n 1 $file_path
+echo "----------"   
+echo "last line :"   
+tail -n 1 $file_path   
 '''   
