@@ -1,7 +1,7 @@
 #### 3주차 git   
 
 #### 이미지   
-<img width="20%" src="https://user-images.githubusercontent.com/127402491/227458056-1b983520-c848-4844-9025-ffdf2456d70c.PNG"/>   
+<img width="35%" src="https://user-images.githubusercontent.com/127402491/227458056-1b983520-c848-4844-9025-ffdf2456d70c.PNG"/>   
 
 #### 링크   
 [LMS](https://lms.kau.ac.kr/login.php)      
@@ -18,7 +18,7 @@
 - status
 - log
   - 예) git log --oneline --decorate --graph --all
-#   
+#######      
 ```   
 #!/user/bin/env bash   
 echo "----------"   
@@ -57,7 +57,7 @@ tail -n 1 $file_path
 - 첫번째   
 - 세번째   
 - 두번째   
-#       
+#######          
 - 빨강         
   - 녹색
     - 파랑 
