@@ -19,7 +19,7 @@ ProGit 링크
 - log
   - 예) git log --oneline --decorate --graph --all
 
-'''   
+```   
 #!/user/bin/env bash   
 echo "----------"   
 echo "name :"   
@@ -45,4 +45,4 @@ echo
 echo "----------"   
 echo "last line :"   
 tail -n 1 $file_path   
-'''   
+```   
