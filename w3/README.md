@@ -20,6 +20,7 @@ ProGit 링크
   - 예) git log --oneline --decorate --graph --all
 
 '''   
+#!/user/bin/env bash   
 echo "----------"   
 echo "name :"   
 echo "지현석"   
